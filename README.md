@@ -1,1 +1,1 @@
-# financial-econometrics-models
+# Financial econometrics models
